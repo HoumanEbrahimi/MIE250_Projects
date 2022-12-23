@@ -1,0 +1,5 @@
+l
+input_file.txt
+r
+d
+q
